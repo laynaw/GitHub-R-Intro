@@ -3,3 +3,15 @@ title: "docing_exercise"
 output: html_document
 ---
 
+```{r}
+source("setup.R")
+```
+```{r}
+data("knz_bison")
+```
+
+# 1. Create a new column in the bison dataset that calculates the individual’s age at the time of observation.
+```{r}
+
+```
+
